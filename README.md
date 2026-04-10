@@ -7,8 +7,8 @@ To measure and display bandwidth utilization across a network using Software Def
 
 ## 🛠 Tools Used
 - Ubuntu Virtual Machine
-- Mininet Network Emulator
-- POX SDN Controller
+- Mininet
+- POX Controller
 - Python 3
 
 ---
@@ -22,7 +22,7 @@ h3 ---/
 
 ---
 
-## ⚙️ Setup & Execution
+## ⚙️ Execution Steps
 
 ### Start Controller
 ```bash
